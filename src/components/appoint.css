@@ -1,0 +1,207 @@
+.col-md-4,
+.col-md-8 {
+  /* border: 1px solid red; */
+  height: 95vh;
+}
+
+.box-1 {
+  /* border: 1px solid gray; */
+  height: 82vh;
+  box-shadow: 1px 1px 10px #888888;
+  border-radius: 3px;
+}
+
+h1 {
+  float: left;
+}
+
+.profile-button {
+  float: right;
+  margin-top: 12px;
+  border: none;
+  border-radius: 20px;
+  background-color: rgb(103, 103, 255);
+  color: white;
+  cursor: pointer;
+  margin-right: 6px;
+  height: 30px;
+  width: 120px;
+  font-size: x-small;
+}
+
+.inner-box {
+  /* border: 1px solid green; */
+  height: 50px;
+}
+
+.inner-box-new {
+  border: 0.5px solid gainsboro;
+  height: 50px;
+}
+
+.inner-box-2 {
+  /* border: 1px solid red; */
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+/* .vl {
+    border-left: 1px solid gainsboro;
+    height: 30px;
+    float: right;
+  } */
+
+.heading-1 {
+  /* border: 1px solid red; */
+  float: left;
+  margin-left: 14px;
+  margin-top: 10px;
+  width: 100px;
+  color: rgb(99, 99, 255);
+  font-weight: bold;
+}
+.heading-2 {
+  float: right;
+  margin-right: 124px;
+  margin-top: 10px;
+  color: rgb(99, 99, 255);
+  font-weight: bold;
+}
+
+.scroll-col {
+  border: 0.5px solid gainsboro;
+  height: 150px;
+  width: 94.5%;
+  margin-left: 11.5px;
+}
+
+.tab-line {
+  border-bottom: 0.5px solid gainsboro;
+}
+
+.tab-line td {
+  color: rgb(99, 99, 255);
+  font-weight: bold;
+  padding-left: 10px;
+  cursor: pointer;
+}
+
+.dummy-data tr td {
+  /* border: 1px solid red; */
+  width: 200px;
+  color: black;
+  font-weight: bold;
+  padding-left: 10px;
+}
+
+.img-div {
+  /* border: 1px solid red ; */
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+  float: left;
+  margin-left: 40px;
+}
+
+.img-div img {
+  height: 80px;
+  width: 80px;
+  border-radius: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pat-name {
+  /* border: 1px solid red; */
+  color: gray;
+  font-weight: bold;
+  width: 150px;
+  margin-top: 10px;
+}
+
+.deatils-div {
+  /* border: 1px solid red; */
+  height: 100px;
+  width: 172px;
+  float: right;
+  margin-right: 80px;
+}
+
+.deatils-div p {
+  /* border: 1px solid red; */
+  color: gray;
+  font-weight: bold;
+}
+
+.heading-detail {
+  color: rgb(99, 99, 255);
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.heading-detail-2 {
+  color: rgb(99, 99, 255);
+  font-weight: bold;
+  text-decoration: underline;
+  margin-left: 15px;
+}
+
+/* second card css */
+
+.container {
+  border: 1px solid gainsborored;
+  box-shadow: 1px 1px 10px #888888;
+  height: 82vh;
+  border-radius: 3px;
+}
+
+.pidtab {
+  width: 400px;
+}
+
+.pidtab-2 {
+  /* border: 1px solid red; */
+  width: 300px;
+}
+
+.date-input {
+  /* border: none; */
+  border: 0.5px solid #888888;
+  height: 35px;
+  border-radius: 2px;
+}
+
+#searchbar {
+  width: 20vw;
+  height: 5vh;
+  border-radius: 20px;
+  border: 0.5px solid gray !important;
+  position: relative;
+  margin-top: 10px;
+  margin-left: 20px;
+  font-size: small;
+}
+
+.serachicon {
+  color: #888888;
+  position: absolute;
+  margin-left: -265px;
+  margin-top: 20px;
+}
+
+.reset-button {
+  width: 150px;
+  margin-top: 20px;
+  border: none;
+  border-radius: 20px;
+  background-color: rgb(103, 103, 255);
+  color: white;
+  cursor: pointer;
+  height: 35px;
+  font-size: small;
+  position: relative;
+  left: 100px;
+  margin-left: 100px;
+}

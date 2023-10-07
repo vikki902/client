@@ -1,0 +1,18 @@
+/* div{
+    border: 0.5px solid red;
+} */
+
+
+.btn-class{
+    /* border: 1px solid red; */
+    width: 100%;
+}
+.btn-class button{
+
+    width: 400px;
+}
+
+.appointment-container{
+
+    width: 500px;
+}
